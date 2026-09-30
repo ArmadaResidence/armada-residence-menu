@@ -5,6 +5,7 @@ Static site. Upload the whole folder to any web host (or open index.html over ht
 ```
 index.html                    the entire app (HTML + CSS + JS). Edit CONFIG at the top of the <script>.
 assets/ARMADA_RESIDENCE_Logo_porcelain.png   official master artwork (untouched, resized only)
+assets/ARMADA_Cafe_Restaurant_Menu_2026.pdf   the printable menu behind the "Download menu (PDF)" buttons — replace this file to update it
 assets/icons/ + favicon.ico + site.webmanifest   favicon / home-screen icon = the approved AR monogram avatar (Porcelain on Oxblood)
 .nojekyll                     keeps GitHub Pages from running Jekyll on the folder
 assets/frames/<section>/desktop/frame_0000…0150.webp   the supplied 720×898 frames, untouched (highest quality available)
