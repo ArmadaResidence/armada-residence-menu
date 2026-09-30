@@ -1024,8 +1024,8 @@
     {
      "id": "snacks-007",
      "subcategory_ar": "سناكس مغلّفة",
-     "name_ar": "توبكس",
-     "name_en": "Tobix",
+     "name_ar": "تويكس",
+     "name_en": "Twix",
      "price_sar": 5,
      "calories_kcal": 320,
      "approved": true,
@@ -2004,8 +2004,8 @@
   {
    "id": "snacks-007",
    "subcategory_ar": "سناكس مغلّفة",
-   "name_ar": "توبكس",
-   "name_en": "Tobix",
+   "name_ar": "تويكس",
+   "name_en": "Twix",
    "price_sar": 5,
    "calories_kcal": 320,
    "approved": true,

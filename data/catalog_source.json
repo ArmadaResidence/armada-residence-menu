@@ -1881,8 +1881,8 @@
    "id": "snacks-007",
    "section_id": "snacks",
    "subcategory_ar": "سناكس مغلّفة",
-   "name_ar": "توبكس",
-   "name_en_reference": "Tobix",
+   "name_ar": "تويكس",
+   "name_en_reference": "Twix",
    "price_sar": 5,
    "calories_kcal": 320,
    "draft_price_sar": 5,
@@ -1894,7 +1894,7 @@
    "confirmation_source": "menu_photo_uploaded_2026-09-29",
    "options": null,
    "image_asset": null,
-   "notes": "وجود الصنف في القائمة الحالية، الاسم التجاري والسعرات تحتاج مراجعة السعر والسعرات من صورة المنيو المرفوعة في 29 سبتمبر؛ راجع ملصق العبوة إذا تغيّر الحجم."
+   "notes": "الاسم موحّد مع منيو PDF 2026 (تويكس)"
   },
   {
    "id": "snacks-008",
