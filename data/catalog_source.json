@@ -1,6 +1,6 @@
 {
  "project": "ARMADA RESIDENCE CAFÉ & RESTAURANT",
- "version": "web-structure-review-2026-10-02-v16",
+ "version": "web-structure-review-2026-10-02-v18",
  "currency": "SAR",
  "calories_unit": "kcal",
  "publication_rule": "Publish only items with verified price_sar. Print-derived snack calories are included as printed; no guessed values. Breakfast add-ons approved from the supplied printed breakfast page (no calories). VIP and extra soft drinks remain pending. Directly dictated soft drink prices take precedence over printed variants.",
@@ -21,13 +21,16 @@
    "label_ar": "الإفطار",
    "hero": "إفطار أرمادا",
    "subcategories": [
-    "إفطار",
-    "إضافات الإفطار"
+    "إفطار"
    ],
    "motion_frames": {
     "package": "ARMADA_Menu_9_Sections_Web_Frames_2026.zip",
     "folder": "breakfast",
     "status": "extracted"
+   },
+   "service_hours_riyadh": {
+    "open": "06:00",
+    "close": "13:00"
    }
   },
   {
@@ -123,7 +126,8 @@
    "hero": "هوني كيك",
    "subcategories": [
     "كيك وتشيزكيك",
-    "وافل وبان كيك"
+    "وافل وبان كيك",
+    "فواكه"
    ],
    "motion_frames": {
     "package": "ARMADA_Menu_9_Sections_Web_Frames_2026.zip",
@@ -1643,11 +1647,11 @@
    "source_file": "WhatsApp Image 2026-09-28 at 12.58.33 PM (1).jpeg",
    "source_type": "older_printed_menu",
    "transcription_status": "clear",
-   "review_status": "approved_by_user",
+   "review_status": "removed_by_client",
    "confirmation_source": "ARMADA_Menu_2026_A4_Web_12pp.pdf (2026-10-02)",
    "options": null,
    "image_asset": null,
-   "notes": "السعر معتمد من صفحة الإفطار المطبوعة الموردة؛ لا سعرات حرارية مطبوعة للإضافات"
+   "notes": "حُذف بطلب العميل 2026-10-02"
   },
   {
    "id": "food-025",
@@ -1662,11 +1666,11 @@
    "source_file": "WhatsApp Image 2026-09-28 at 12.58.33 PM (1).jpeg",
    "source_type": "older_printed_menu",
    "transcription_status": "clear",
-   "review_status": "approved_by_user",
+   "review_status": "removed_by_client",
    "confirmation_source": "ARMADA_Menu_2026_A4_Web_12pp.pdf (2026-10-02)",
    "options": null,
    "image_asset": null,
-   "notes": "السعر معتمد من صفحة الإفطار المطبوعة الموردة؛ لا سعرات حرارية مطبوعة للإضافات"
+   "notes": "حُذف بطلب العميل 2026-10-02"
   },
   {
    "id": "food-026",
@@ -1681,11 +1685,11 @@
    "source_file": "WhatsApp Image 2026-09-28 at 12.58.33 PM (1).jpeg",
    "source_type": "older_printed_menu",
    "transcription_status": "clear",
-   "review_status": "approved_by_user",
+   "review_status": "removed_by_client",
    "confirmation_source": "ARMADA_Menu_2026_A4_Web_12pp.pdf (2026-10-02)",
    "options": null,
    "image_asset": null,
-   "notes": "السعر معتمد من صفحة الإفطار المطبوعة الموردة؛ لا سعرات حرارية مطبوعة للإضافات"
+   "notes": "حُذف بطلب العميل 2026-10-02"
   },
   {
    "id": "food-027",
@@ -1700,11 +1704,11 @@
    "source_file": "WhatsApp Image 2026-09-28 at 12.58.33 PM (1).jpeg",
    "source_type": "older_printed_menu",
    "transcription_status": "clear",
-   "review_status": "approved_by_user",
+   "review_status": "removed_by_client",
    "confirmation_source": "ARMADA_Menu_2026_A4_Web_12pp.pdf (2026-10-02)",
    "options": null,
    "image_asset": null,
-   "notes": "السعر معتمد من صفحة الإفطار المطبوعة الموردة؛ لا سعرات حرارية مطبوعة للإضافات"
+   "notes": "حُذف بطلب العميل 2026-10-02"
   },
   {
    "id": "food-028",
@@ -1719,11 +1723,11 @@
    "source_file": "WhatsApp Image 2026-09-28 at 12.58.33 PM (1).jpeg",
    "source_type": "older_printed_menu",
    "transcription_status": "clear",
-   "review_status": "approved_by_user",
+   "review_status": "removed_by_client",
    "confirmation_source": "ARMADA_Menu_2026_A4_Web_12pp.pdf (2026-10-02)",
    "options": null,
    "image_asset": null,
-   "notes": "السعر معتمد من صفحة الإفطار المطبوعة الموردة؛ لا سعرات حرارية مطبوعة للإضافات"
+   "notes": "حُذف بطلب العميل 2026-10-02"
   },
   {
    "id": "food-029",
@@ -1738,11 +1742,11 @@
    "source_file": "WhatsApp Image 2026-09-28 at 12.58.33 PM (1).jpeg",
    "source_type": "older_printed_menu",
    "transcription_status": "clear",
-   "review_status": "approved_by_user",
+   "review_status": "removed_by_client",
    "confirmation_source": "ARMADA_Menu_2026_A4_Web_12pp.pdf (2026-10-02)",
    "options": null,
    "image_asset": null,
-   "notes": "الاسم معدّل بطلب العميل 2026-10-02 (كان: دلة قهوة عربية مع تمر)"
+   "notes": "حُذف بطلب العميل 2026-10-02"
   },
   {
    "id": "food-030",
@@ -1757,11 +1761,11 @@
    "source_file": "WhatsApp Image 2026-09-28 at 12.58.33 PM (1).jpeg",
    "source_type": "older_printed_menu",
    "transcription_status": "clear",
-   "review_status": "approved_by_user",
+   "review_status": "removed_by_client",
    "confirmation_source": "ARMADA_Menu_2026_A4_Web_12pp.pdf (2026-10-02)",
    "options": null,
    "image_asset": null,
-   "notes": "السعر معتمد من صفحة الإفطار المطبوعة الموردة؛ لا سعرات حرارية مطبوعة للإضافات"
+   "notes": "حُذف بطلب العميل 2026-10-02"
   },
   {
    "id": "snacks-001",
@@ -2028,6 +2032,44 @@
    "options": null,
    "image_asset": null,
    "notes": "ظاهر في صورة القائمة المطبوعة، ولم يرد في القائمة التي أملاها المستخدم مباشرة. لا ينشر قبل تأكيد التوفر والسعر."
+  },
+  {
+   "id": "dessert-006",
+   "section_id": "dessert",
+   "subcategory_ar": "فواكه",
+   "name_ar": "طبق فواكه مقطعة",
+   "name_en_reference": "Fresh Cut Fruit Plate",
+   "price_sar": 20,
+   "calories_kcal": 130,
+   "draft_price_sar": 20,
+   "draft_calories_kcal": null,
+   "source_file": null,
+   "source_type": null,
+   "transcription_status": null,
+   "review_status": "approved_by_user",
+   "confirmation_source": "ARMADA_Menu_2026_A4_Web_12pp.pdf (2026-10-02 v3)",
+   "options": null,
+   "image_asset": null,
+   "notes": "أُضيف بطلب العميل 2026-10-02، بلا سعرات مطبوعة"
+  },
+  {
+   "id": "dessert-007",
+   "section_id": "dessert",
+   "subcategory_ar": "فواكه",
+   "name_ar": "سلطة فواكه",
+   "name_en_reference": "Fruit Salad",
+   "price_sar": 15,
+   "calories_kcal": null,
+   "draft_price_sar": 15,
+   "draft_calories_kcal": null,
+   "source_file": null,
+   "source_type": null,
+   "transcription_status": null,
+   "review_status": "approved_by_user",
+   "confirmation_source": "client_request_2026-10-02",
+   "options": null,
+   "image_asset": null,
+   "notes": "أُضيف بطلب العميل 2026-10-02، بلا سعرات مطبوعة"
   }
  ],
  "source_files": {

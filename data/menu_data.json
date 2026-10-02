@@ -233,7 +233,8 @@
      "approved": true,
      "options": null
     }
-   ]
+   ],
+   "hours": null
   },
   {
    "id": "cold",
@@ -349,7 +350,8 @@
      "approved": true,
      "options": null
     }
-   ]
+   ],
+   "hours": null
   },
   {
    "id": "juice_mojito",
@@ -441,7 +443,8 @@
      "approved": true,
      "options": null
     }
-   ]
+   ],
+   "hours": null
   },
   {
    "id": "breakfast",
@@ -449,8 +452,7 @@
    "label_ar": "الإفطار",
    "label_en": "Breakfast",
    "subcategories": [
-    "إفطار",
-    "إضافات الإفطار"
+    "إفطار"
    ],
    "items": [
     {
@@ -482,78 +484,12 @@
      "calories_kcal": 980,
      "approved": true,
      "options": null
-    },
-    {
-     "id": "food-024",
-     "subcategory_ar": "إضافات الإفطار",
-     "name_ar": "أومليت إضافي",
-     "name_en": "Extra Omelette",
-     "price_sar": 12,
-     "calories_kcal": 220,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "food-025",
-     "subcategory_ar": "إضافات الإفطار",
-     "name_ar": "عصير طازج",
-     "name_en": "Fresh Juice",
-     "price_sar": 12,
-     "calories_kcal": 170,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "food-026",
-     "subcategory_ar": "إضافات الإفطار",
-     "name_ar": "طبق فواكه",
-     "name_en": "Fruit Plate",
-     "price_sar": 15,
-     "calories_kcal": 130,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "food-027",
-     "subcategory_ar": "إضافات الإفطار",
-     "name_ar": "بان كيك بالعسل",
-     "name_en": "Honey Pancakes",
-     "price_sar": 15,
-     "calories_kcal": 420,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "food-028",
-     "subcategory_ar": "إضافات الإفطار",
-     "name_ar": "وافل إضافي",
-     "name_en": "Extra Waffle",
-     "price_sar": 15,
-     "calories_kcal": 350,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "food-029",
-     "subcategory_ar": "إضافات الإفطار",
-     "name_ar": "دلة قهوة سعودية",
-     "name_en": "Saudi Coffee Dallah",
-     "price_sar": 25,
-     "calories_kcal": 140,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "food-030",
-     "subcategory_ar": "إضافات الإفطار",
-     "name_ar": "براد شاي",
-     "name_en": "Tea Pot",
-     "price_sar": 20,
-     "calories_kcal": 5,
-     "approved": true,
-     "options": null
     }
-   ]
+   ],
+   "hours": {
+    "open": "06:00",
+    "close": "13:00"
+   }
   },
   {
    "id": "food",
@@ -767,7 +703,8 @@
      "approved": true,
      "options": null
     }
-   ]
+   ],
+   "hours": null
   },
   {
    "id": "dessert",
@@ -776,7 +713,8 @@
    "label_en": "Desserts",
    "subcategories": [
     "كيك وتشيزكيك",
-    "وافل وبان كيك"
+    "وافل وبان كيك",
+    "فواكه"
    ],
    "items": [
     {
@@ -828,8 +766,29 @@
      "calories_kcal": 480,
      "approved": true,
      "options": null
+    },
+    {
+     "id": "dessert-006",
+     "subcategory_ar": "فواكه",
+     "name_ar": "طبق فواكه مقطعة",
+     "name_en": "Fresh Cut Fruit Plate",
+     "price_sar": 20,
+     "calories_kcal": 130,
+     "approved": true,
+     "options": null
+    },
+    {
+     "id": "dessert-007",
+     "subcategory_ar": "فواكه",
+     "name_ar": "سلطة فواكه",
+     "name_en": "Fruit Salad",
+     "price_sar": 15,
+     "calories_kcal": null,
+     "approved": true,
+     "options": null
     }
-   ]
+   ],
+   "hours": null
   },
   {
    "id": "soft_drinks",
@@ -950,7 +909,8 @@
      "approved": false,
      "options": null
     }
-   ]
+   ],
+   "hours": null
   },
   {
    "id": "snacks",
@@ -1071,7 +1031,8 @@
      "approved": true,
      "options": null
     }
-   ]
+   ],
+   "hours": null
   }
  ],
  "items": [
@@ -1512,76 +1473,6 @@
    "options": null
   },
   {
-   "id": "food-024",
-   "subcategory_ar": "إضافات الإفطار",
-   "name_ar": "أومليت إضافي",
-   "name_en": "Extra Omelette",
-   "price_sar": 12,
-   "calories_kcal": 220,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "food-025",
-   "subcategory_ar": "إضافات الإفطار",
-   "name_ar": "عصير طازج",
-   "name_en": "Fresh Juice",
-   "price_sar": 12,
-   "calories_kcal": 170,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "food-026",
-   "subcategory_ar": "إضافات الإفطار",
-   "name_ar": "طبق فواكه",
-   "name_en": "Fruit Plate",
-   "price_sar": 15,
-   "calories_kcal": 130,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "food-027",
-   "subcategory_ar": "إضافات الإفطار",
-   "name_ar": "بان كيك بالعسل",
-   "name_en": "Honey Pancakes",
-   "price_sar": 15,
-   "calories_kcal": 420,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "food-028",
-   "subcategory_ar": "إضافات الإفطار",
-   "name_ar": "وافل إضافي",
-   "name_en": "Extra Waffle",
-   "price_sar": 15,
-   "calories_kcal": 350,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "food-029",
-   "subcategory_ar": "إضافات الإفطار",
-   "name_ar": "دلة قهوة سعودية",
-   "name_en": "Saudi Coffee Dallah",
-   "price_sar": 25,
-   "calories_kcal": 140,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "food-030",
-   "subcategory_ar": "إضافات الإفطار",
-   "name_ar": "براد شاي",
-   "name_en": "Tea Pot",
-   "price_sar": 20,
-   "calories_kcal": 5,
-   "approved": true,
-   "options": null
-  },
-  {
    "id": "food-004",
    "subcategory_ar": "سلطات",
    "name_ar": "سلطة كولسلو",
@@ -1832,6 +1723,26 @@
    "options": null
   },
   {
+   "id": "dessert-006",
+   "subcategory_ar": "فواكه",
+   "name_ar": "طبق فواكه مقطعة",
+   "name_en": "Fresh Cut Fruit Plate",
+   "price_sar": 20,
+   "calories_kcal": 130,
+   "approved": true,
+   "options": null
+  },
+  {
+   "id": "dessert-007",
+   "subcategory_ar": "فواكه",
+   "name_ar": "سلطة فواكه",
+   "name_en": "Fruit Salad",
+   "price_sar": 15,
+   "calories_kcal": null,
+   "approved": true,
+   "options": null
+  },
+  {
    "id": "cold-018",
    "subcategory_ar": "مشروبات غازية ومياه",
    "name_ar": "بيبسي كبير",
@@ -2070,6 +1981,7 @@
   "إفطار": "Breakfast",
   "إضافات الإفطار": "Breakfast add-ons",
   "سناكس مغلّفة": "Packaged snacks",
+  "فواكه": "Fruits",
   "VIP لشخصين": "VIP for two"
  },
  "vip": {
@@ -2087,5 +1999,5 @@
    "price_sar": null
   }
  },
- "catalog_version": "web-structure-review-2026-10-02-v16"
+ "catalog_version": "web-structure-review-2026-10-02-v18"
 }
