@@ -24,7 +24,7 @@
      "id": "hot-002",
      "subcategory_ar": "قهوة",
      "name_ar": "كوب قهوة سعودية",
-     "name_en": "Saudi Coffee (Cup)",
+     "name_en": "Saudi Coffee (cup)",
      "price_sar": 8,
      "calories_kcal": 5,
      "approved": true,
@@ -154,7 +154,7 @@
      "id": "hot-015",
      "subcategory_ar": "قهوة",
      "name_ar": "V60",
-     "name_en": "V60",
+     "name_en": "V60 Pour-over",
      "price_sar": 15,
      "calories_kcal": 5,
      "approved": true,
@@ -162,14 +162,14 @@
       {
        "id": "ethiopian",
        "label_ar": "إثيوبي",
-       "price_delta_sar": 0,
-       "label_en": "Ethiopian"
+       "label_en": "Ethiopian",
+       "price_delta_sar": 0
       },
       {
        "id": "colombian",
        "label_ar": "كولومبي",
-       "price_delta_sar": 0,
-       "label_en": "Colombian"
+       "label_en": "Colombian",
+       "price_delta_sar": 0
       }
      ]
     },
@@ -230,6 +230,214 @@
      "name_en": "Green Tea",
      "price_sar": 5,
      "calories_kcal": 5,
+     "approved": true,
+     "options": null
+    }
+   ]
+  },
+  {
+   "id": "cold",
+   "folder": "cold_drinks",
+   "label_ar": "المشروبات الباردة",
+   "label_en": "Cold Drinks",
+   "subcategories": [
+    "قهوة باردة",
+    "ماتشا",
+    "كركديه"
+   ],
+   "items": [
+    {
+     "id": "cold-001",
+     "subcategory_ar": "قهوة باردة",
+     "name_ar": "موكا بارد",
+     "name_en": "Iced Mocha",
+     "price_sar": 17,
+     "calories_kcal": 300,
+     "approved": true,
+     "options": null
+    },
+    {
+     "id": "cold-002",
+     "subcategory_ar": "قهوة باردة",
+     "name_ar": "وايت موكا بارد",
+     "name_en": "Iced White Mocha",
+     "price_sar": 16,
+     "calories_kcal": 330,
+     "approved": true,
+     "options": null
+    },
+    {
+     "id": "cold-003",
+     "subcategory_ar": "قهوة باردة",
+     "name_ar": "كوب ثلج",
+     "name_en": "Cup of Ice",
+     "price_sar": 3,
+     "calories_kcal": 0,
+     "approved": true,
+     "options": null
+    },
+    {
+     "id": "cold-004",
+     "subcategory_ar": "قهوة باردة",
+     "name_ar": "أمريكانو بارد",
+     "name_en": "Iced Americano",
+     "price_sar": 12,
+     "calories_kcal": 5,
+     "approved": true,
+     "options": null
+    },
+    {
+     "id": "cold-005",
+     "subcategory_ar": "قهوة باردة",
+     "name_ar": "إسبانيش لاتيه بارد",
+     "name_en": "Iced Spanish Latte",
+     "price_sar": 17,
+     "calories_kcal": 290,
+     "approved": true,
+     "options": null
+    },
+    {
+     "id": "cold-006",
+     "subcategory_ar": "قهوة باردة",
+     "name_ar": "آيس لاتيه",
+     "name_en": "Iced Latte",
+     "price_sar": 15,
+     "calories_kcal": 160,
+     "approved": true,
+     "options": null
+    },
+    {
+     "id": "cold-007",
+     "subcategory_ar": "قهوة باردة",
+     "name_ar": "V60 بارد",
+     "name_en": "Iced V60",
+     "price_sar": 15,
+     "calories_kcal": 5,
+     "approved": true,
+     "options": [
+      {
+       "id": "ethiopian",
+       "label_ar": "إثيوبي",
+       "label_en": "Ethiopian",
+       "price_delta_sar": 0
+      },
+      {
+       "id": "colombian",
+       "label_ar": "كولومبي",
+       "label_en": "Colombian",
+       "price_delta_sar": 0
+      }
+     ]
+    },
+    {
+     "id": "cold-008",
+     "subcategory_ar": "ماتشا",
+     "name_ar": "آيس ماتشا",
+     "name_en": "Iced Matcha",
+     "price_sar": 16,
+     "calories_kcal": 220,
+     "approved": true,
+     "options": null
+    },
+    {
+     "id": "cold-015",
+     "subcategory_ar": "كركديه",
+     "name_ar": "كركديه",
+     "name_en": "Hibiscus (Karkadeh)",
+     "price_sar": 12,
+     "calories_kcal": 120,
+     "approved": true,
+     "options": null
+    }
+   ]
+  },
+  {
+   "id": "juice_mojito",
+   "folder": "juice_mojito",
+   "label_ar": "العصائر والموهيتو",
+   "label_en": "Juices & Mojitos",
+   "subcategories": [
+    "عصائر",
+    "كوكتيلات وموهيتو"
+   ],
+   "items": [
+    {
+     "id": "cold-009",
+     "subcategory_ar": "عصائر",
+     "name_ar": "عصير مانجو",
+     "name_en": "Mango Juice",
+     "price_sar": 13,
+     "calories_kcal": 200,
+     "approved": true,
+     "options": null
+    },
+    {
+     "id": "cold-010",
+     "subcategory_ar": "عصائر",
+     "name_ar": "عصير جوافة",
+     "name_en": "Guava Juice",
+     "price_sar": 13,
+     "calories_kcal": 190,
+     "approved": true,
+     "options": null
+    },
+    {
+     "id": "cold-011",
+     "subcategory_ar": "عصائر",
+     "name_ar": "عصير برتقال",
+     "name_en": "Orange Juice",
+     "price_sar": 15,
+     "calories_kcal": 170,
+     "approved": true,
+     "options": null
+    },
+    {
+     "id": "cold-012",
+     "subcategory_ar": "عصائر",
+     "name_ar": "عصير فراولة",
+     "name_en": "Strawberry Juice",
+     "price_sar": 13,
+     "calories_kcal": 180,
+     "approved": true,
+     "options": null
+    },
+    {
+     "id": "cold-013",
+     "subcategory_ar": "عصائر",
+     "name_ar": "عصير ليمون نعناع",
+     "name_en": "Lemon Mint Juice",
+     "price_sar": 12,
+     "calories_kcal": 180,
+     "approved": true,
+     "options": null
+    },
+    {
+     "id": "cold-014",
+     "subcategory_ar": "عصائر",
+     "name_ar": "كوكتيل",
+     "name_en": "Cocktail Juice",
+     "price_sar": 15,
+     "calories_kcal": 220,
+     "approved": true,
+     "options": null
+    },
+    {
+     "id": "cold-016",
+     "subcategory_ar": "كوكتيلات وموهيتو",
+     "name_ar": "موهيتو سفن أب",
+     "name_en": "7UP Mojito",
+     "price_sar": 12,
+     "calories_kcal": 190,
+     "approved": true,
+     "options": null
+    },
+    {
+     "id": "cold-017",
+     "subcategory_ar": "كوكتيلات وموهيتو",
+     "name_ar": "موهيتو كود رد",
+     "name_en": "Code Red Mojito",
+     "price_sar": 13,
+     "calories_kcal": 220,
      "approved": true,
      "options": null
     }
@@ -328,8 +536,8 @@
     {
      "id": "food-029",
      "subcategory_ar": "إضافات الإفطار",
-     "name_ar": "دلة قهوة عربية مع تمر",
-     "name_en": "Arabic Coffee Dallah with Dates",
+     "name_ar": "دلة قهوة سعودية",
+     "name_en": "Saudi Coffee Dallah",
      "price_sar": 25,
      "calories_kcal": 140,
      "approved": true,
@@ -342,315 +550,6 @@
      "name_en": "Tea Pot",
      "price_sar": 20,
      "calories_kcal": 5,
-     "approved": true,
-     "options": null
-    }
-   ]
-  },
-  {
-   "id": "cold",
-   "folder": "cold_drinks",
-   "label_ar": "المشروبات الباردة",
-   "label_en": "Cold Drinks",
-   "subcategories": [
-    "قهوة باردة",
-    "ماتشا",
-    "كركديه"
-   ],
-   "items": [
-    {
-     "id": "cold-001",
-     "subcategory_ar": "قهوة باردة",
-     "name_ar": "موكا بارد",
-     "name_en": "Iced Mocha",
-     "price_sar": 17,
-     "calories_kcal": 300,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "cold-002",
-     "subcategory_ar": "قهوة باردة",
-     "name_ar": "وايت موكا بارد",
-     "name_en": "Iced White Mocha",
-     "price_sar": 16,
-     "calories_kcal": 330,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "cold-003",
-     "subcategory_ar": "قهوة باردة",
-     "name_ar": "كوب ثلج",
-     "name_en": "Cup of Ice",
-     "price_sar": 3,
-     "calories_kcal": 0,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "cold-004",
-     "subcategory_ar": "قهوة باردة",
-     "name_ar": "أمريكانو بارد",
-     "name_en": "Iced Americano",
-     "price_sar": 12,
-     "calories_kcal": 5,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "cold-005",
-     "subcategory_ar": "قهوة باردة",
-     "name_ar": "إسبانيش لاتيه بارد",
-     "name_en": "Iced Spanish Latte",
-     "price_sar": 17,
-     "calories_kcal": 290,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "cold-006",
-     "subcategory_ar": "قهوة باردة",
-     "name_ar": "آيس لاتيه",
-     "name_en": "Iced Latte",
-     "price_sar": 15,
-     "calories_kcal": 160,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "cold-007",
-     "subcategory_ar": "قهوة باردة",
-     "name_ar": "V60 بارد",
-     "name_en": "Iced V60",
-     "price_sar": 15,
-     "calories_kcal": 5,
-     "approved": true,
-     "options": [
-      {
-       "id": "ethiopian",
-       "label_ar": "إثيوبي",
-       "price_delta_sar": 0,
-       "label_en": "Ethiopian"
-      },
-      {
-       "id": "colombian",
-       "label_ar": "كولومبي",
-       "price_delta_sar": 0,
-       "label_en": "Colombian"
-      }
-     ]
-    },
-    {
-     "id": "cold-008",
-     "subcategory_ar": "ماتشا",
-     "name_ar": "آيس ماتشا",
-     "name_en": "Iced Matcha",
-     "price_sar": 16,
-     "calories_kcal": 220,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "cold-015",
-     "subcategory_ar": "كركديه",
-     "name_ar": "كركديه",
-     "name_en": "Hibiscus (Karkadeh)",
-     "price_sar": 12,
-     "calories_kcal": 120,
-     "approved": true,
-     "options": null
-    }
-   ]
-  },
-  {
-   "id": "juice_mojito",
-   "folder": "juice_mojito",
-   "label_ar": "العصائر والموهيتو",
-   "label_en": "Juices & Mojitos",
-   "subcategories": [
-    "عصائر",
-    "كوكتيلات وموهيتو"
-   ],
-   "items": [
-    {
-     "id": "cold-009",
-     "subcategory_ar": "عصائر",
-     "name_ar": "عصير مانجو",
-     "name_en": "Mango Juice",
-     "price_sar": 13,
-     "calories_kcal": 200,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "cold-010",
-     "subcategory_ar": "عصائر",
-     "name_ar": "عصير جوافة",
-     "name_en": "Guava Juice",
-     "price_sar": 13,
-     "calories_kcal": 190,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "cold-011",
-     "subcategory_ar": "عصائر",
-     "name_ar": "عصير برتقال",
-     "name_en": "Orange Juice",
-     "price_sar": 15,
-     "calories_kcal": 170,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "cold-012",
-     "subcategory_ar": "عصائر",
-     "name_ar": "عصير فراولة",
-     "name_en": "Strawberry Juice",
-     "price_sar": 13,
-     "calories_kcal": 180,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "cold-013",
-     "subcategory_ar": "عصائر",
-     "name_ar": "عصير ليمون نعناع",
-     "name_en": "Lemon & Mint Juice",
-     "price_sar": 12,
-     "calories_kcal": 180,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "cold-014",
-     "subcategory_ar": "عصائر",
-     "name_ar": "كوكتيل",
-     "name_en": "Cocktail Juice",
-     "price_sar": 15,
-     "calories_kcal": 220,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "cold-016",
-     "subcategory_ar": "كوكتيلات وموهيتو",
-     "name_ar": "موهيتو سفن أب",
-     "name_en": "7UP Mojito",
-     "price_sar": 12,
-     "calories_kcal": 190,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "cold-017",
-     "subcategory_ar": "كوكتيلات وموهيتو",
-     "name_ar": "موهيتو كود رد",
-     "name_en": "Code Red Mojito",
-     "price_sar": 13,
-     "calories_kcal": 220,
-     "approved": true,
-     "options": null
-    }
-   ]
-  },
-  {
-   "id": "soft_drinks",
-   "folder": "soft_drinks",
-   "label_ar": "المشروبات الغازية والمياه",
-   "label_en": "Soft Drinks & Water",
-   "subcategories": [
-    "مشروبات غازية ومياه"
-   ],
-   "items": [
-    {
-     "id": "cold-018",
-     "subcategory_ar": "مشروبات غازية ومياه",
-     "name_ar": "بيبسي كبير",
-     "name_en": "Pepsi (Large)",
-     "price_sar": 4,
-     "calories_kcal": 140,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "cold-019",
-     "subcategory_ar": "مشروبات غازية ومياه",
-     "name_ar": "سفن أب",
-     "name_en": "7UP",
-     "price_sar": 4,
-     "calories_kcal": 140,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "cold-020",
-     "subcategory_ar": "مشروبات غازية ومياه",
-     "name_ar": "ميرندا برتقال",
-     "name_en": "Mirinda Orange",
-     "price_sar": 4,
-     "calories_kcal": 160,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "cold-021",
-     "subcategory_ar": "مشروبات غازية ومياه",
-     "name_ar": "عصير الربيع",
-     "name_en": "Al Rabie Juice",
-     "price_sar": 4,
-     "calories_kcal": 110,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "cold-022",
-     "subcategory_ar": "مشروبات غازية ومياه",
-     "name_ar": "مياه",
-     "name_en": "Water",
-     "price_sar": 2,
-     "calories_kcal": 0,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "cold-023",
-     "subcategory_ar": "مشروبات غازية ومياه",
-     "name_ar": "حمضيات",
-     "name_en": "Citrus Drink",
-     "price_sar": 4,
-     "calories_kcal": 150,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "cold-024",
-     "subcategory_ar": "مشروبات غازية ومياه",
-     "name_ar": "كود رد صغير",
-     "name_en": "Code Red (Small)",
-     "price_sar": 5,
-     "calories_kcal": 150,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "cold-025",
-     "subcategory_ar": "مشروبات غازية ومياه",
-     "name_ar": "كود رد كبير",
-     "name_en": "Code Red (Large)",
-     "price_sar": 7,
-     "calories_kcal": 240,
-     "approved": true,
-     "options": null
-    },
-    {
-     "id": "cold-026",
-     "subcategory_ar": "مشروبات غازية ومياه",
-     "name_ar": "ماونتن ديو",
-     "name_en": "Mountain Dew",
-     "price_sar": 4,
-     "calories_kcal": 170,
      "approved": true,
      "options": null
     }
@@ -802,7 +701,7 @@
      "id": "food-017",
      "subcategory_ar": "بيتزا",
      "name_ar": "بيتزا مارجريتا",
-     "name_en": "Pizza Margherita",
+     "name_en": "Margherita Pizza",
      "price_sar": 25,
      "calories_kcal": 650,
      "approved": true,
@@ -904,7 +803,7 @@
      "id": "dessert-003",
      "subcategory_ar": "كيك وتشيزكيك",
      "name_ar": "كيك شيشاني بالعسل",
-     "name_en": "Chechen Honey Cake",
+     "name_en": "Honey Cake (Chechen-style)",
      "price_sar": 17,
      "calories_kcal": 450,
      "approved": true,
@@ -928,6 +827,127 @@
      "price_sar": 15,
      "calories_kcal": 480,
      "approved": true,
+     "options": null
+    }
+   ]
+  },
+  {
+   "id": "soft_drinks",
+   "folder": "soft_drinks",
+   "label_ar": "المشروبات الغازية والمياه",
+   "label_en": "Soft Drinks & Water",
+   "subcategories": [
+    "مشروبات غازية ومياه"
+   ],
+   "items": [
+    {
+     "id": "cold-018",
+     "subcategory_ar": "مشروبات غازية ومياه",
+     "name_ar": "بيبسي كبير",
+     "name_en": "Pepsi (large)",
+     "price_sar": 4,
+     "calories_kcal": 140,
+     "approved": true,
+     "options": null
+    },
+    {
+     "id": "cold-019",
+     "subcategory_ar": "مشروبات غازية ومياه",
+     "name_ar": "سفن أب",
+     "name_en": "7UP",
+     "price_sar": 4,
+     "calories_kcal": 140,
+     "approved": true,
+     "options": null
+    },
+    {
+     "id": "cold-020",
+     "subcategory_ar": "مشروبات غازية ومياه",
+     "name_ar": "ميرندا برتقال",
+     "name_en": "Mirinda Orange",
+     "price_sar": 4,
+     "calories_kcal": 160,
+     "approved": true,
+     "options": null
+    },
+    {
+     "id": "cold-021",
+     "subcategory_ar": "مشروبات غازية ومياه",
+     "name_ar": "عصير الربيع",
+     "name_en": "Al Rabie Juice",
+     "price_sar": 4,
+     "calories_kcal": 110,
+     "approved": true,
+     "options": null
+    },
+    {
+     "id": "cold-022",
+     "subcategory_ar": "مشروبات غازية ومياه",
+     "name_ar": "مياه",
+     "name_en": "Water",
+     "price_sar": 2,
+     "calories_kcal": 0,
+     "approved": true,
+     "options": null
+    },
+    {
+     "id": "cold-023",
+     "subcategory_ar": "مشروبات غازية ومياه",
+     "name_ar": "حمضيات",
+     "name_en": "Citrus Drink",
+     "price_sar": 4,
+     "calories_kcal": 150,
+     "approved": true,
+     "options": null
+    },
+    {
+     "id": "cold-024",
+     "subcategory_ar": "مشروبات غازية ومياه",
+     "name_ar": "كود رد صغير",
+     "name_en": "Code Red (small)",
+     "price_sar": 5,
+     "calories_kcal": 150,
+     "approved": true,
+     "options": null
+    },
+    {
+     "id": "cold-025",
+     "subcategory_ar": "مشروبات غازية ومياه",
+     "name_ar": "كود رد كبير",
+     "name_en": "Code Red (large)",
+     "price_sar": 7,
+     "calories_kcal": 240,
+     "approved": true,
+     "options": null
+    },
+    {
+     "id": "cold-026",
+     "subcategory_ar": "مشروبات غازية ومياه",
+     "name_ar": "ماونتن ديو",
+     "name_en": "Mountain Dew",
+     "price_sar": 4,
+     "calories_kcal": 170,
+     "approved": true,
+     "options": null
+    },
+    {
+     "id": "soft-photo-001",
+     "subcategory_ar": "مشروبات غازية ومياه",
+     "name_ar": "بيبسي صغير",
+     "name_en": "Pepsi (small)",
+     "price_sar": null,
+     "calories_kcal": null,
+     "approved": false,
+     "options": null
+    },
+    {
+     "id": "soft-photo-002",
+     "subcategory_ar": "مشروبات غازية ومياه",
+     "name_ar": "ديو صغير",
+     "name_en": "Mountain Dew (small)",
+     "price_sar": null,
+     "calories_kcal": null,
+     "approved": false,
      "options": null
     }
    ]
@@ -1069,7 +1089,7 @@
    "id": "hot-002",
    "subcategory_ar": "قهوة",
    "name_ar": "كوب قهوة سعودية",
-   "name_en": "Saudi Coffee (Cup)",
+   "name_en": "Saudi Coffee (cup)",
    "price_sar": 8,
    "calories_kcal": 5,
    "approved": true,
@@ -1199,7 +1219,7 @@
    "id": "hot-015",
    "subcategory_ar": "قهوة",
    "name_ar": "V60",
-   "name_en": "V60",
+   "name_en": "V60 Pour-over",
    "price_sar": 15,
    "calories_kcal": 5,
    "approved": true,
@@ -1207,14 +1227,14 @@
     {
      "id": "ethiopian",
      "label_ar": "إثيوبي",
-     "price_delta_sar": 0,
-     "label_en": "Ethiopian"
+     "label_en": "Ethiopian",
+     "price_delta_sar": 0
     },
     {
      "id": "colombian",
      "label_ar": "كولومبي",
-     "price_delta_sar": 0,
-     "label_en": "Colombian"
+     "label_en": "Colombian",
+     "price_delta_sar": 0
     }
    ]
   },
@@ -1275,6 +1295,189 @@
    "name_en": "Green Tea",
    "price_sar": 5,
    "calories_kcal": 5,
+   "approved": true,
+   "options": null
+  },
+  {
+   "id": "cold-001",
+   "subcategory_ar": "قهوة باردة",
+   "name_ar": "موكا بارد",
+   "name_en": "Iced Mocha",
+   "price_sar": 17,
+   "calories_kcal": 300,
+   "approved": true,
+   "options": null
+  },
+  {
+   "id": "cold-002",
+   "subcategory_ar": "قهوة باردة",
+   "name_ar": "وايت موكا بارد",
+   "name_en": "Iced White Mocha",
+   "price_sar": 16,
+   "calories_kcal": 330,
+   "approved": true,
+   "options": null
+  },
+  {
+   "id": "cold-003",
+   "subcategory_ar": "قهوة باردة",
+   "name_ar": "كوب ثلج",
+   "name_en": "Cup of Ice",
+   "price_sar": 3,
+   "calories_kcal": 0,
+   "approved": true,
+   "options": null
+  },
+  {
+   "id": "cold-004",
+   "subcategory_ar": "قهوة باردة",
+   "name_ar": "أمريكانو بارد",
+   "name_en": "Iced Americano",
+   "price_sar": 12,
+   "calories_kcal": 5,
+   "approved": true,
+   "options": null
+  },
+  {
+   "id": "cold-005",
+   "subcategory_ar": "قهوة باردة",
+   "name_ar": "إسبانيش لاتيه بارد",
+   "name_en": "Iced Spanish Latte",
+   "price_sar": 17,
+   "calories_kcal": 290,
+   "approved": true,
+   "options": null
+  },
+  {
+   "id": "cold-006",
+   "subcategory_ar": "قهوة باردة",
+   "name_ar": "آيس لاتيه",
+   "name_en": "Iced Latte",
+   "price_sar": 15,
+   "calories_kcal": 160,
+   "approved": true,
+   "options": null
+  },
+  {
+   "id": "cold-007",
+   "subcategory_ar": "قهوة باردة",
+   "name_ar": "V60 بارد",
+   "name_en": "Iced V60",
+   "price_sar": 15,
+   "calories_kcal": 5,
+   "approved": true,
+   "options": [
+    {
+     "id": "ethiopian",
+     "label_ar": "إثيوبي",
+     "label_en": "Ethiopian",
+     "price_delta_sar": 0
+    },
+    {
+     "id": "colombian",
+     "label_ar": "كولومبي",
+     "label_en": "Colombian",
+     "price_delta_sar": 0
+    }
+   ]
+  },
+  {
+   "id": "cold-008",
+   "subcategory_ar": "ماتشا",
+   "name_ar": "آيس ماتشا",
+   "name_en": "Iced Matcha",
+   "price_sar": 16,
+   "calories_kcal": 220,
+   "approved": true,
+   "options": null
+  },
+  {
+   "id": "cold-015",
+   "subcategory_ar": "كركديه",
+   "name_ar": "كركديه",
+   "name_en": "Hibiscus (Karkadeh)",
+   "price_sar": 12,
+   "calories_kcal": 120,
+   "approved": true,
+   "options": null
+  },
+  {
+   "id": "cold-009",
+   "subcategory_ar": "عصائر",
+   "name_ar": "عصير مانجو",
+   "name_en": "Mango Juice",
+   "price_sar": 13,
+   "calories_kcal": 200,
+   "approved": true,
+   "options": null
+  },
+  {
+   "id": "cold-010",
+   "subcategory_ar": "عصائر",
+   "name_ar": "عصير جوافة",
+   "name_en": "Guava Juice",
+   "price_sar": 13,
+   "calories_kcal": 190,
+   "approved": true,
+   "options": null
+  },
+  {
+   "id": "cold-011",
+   "subcategory_ar": "عصائر",
+   "name_ar": "عصير برتقال",
+   "name_en": "Orange Juice",
+   "price_sar": 15,
+   "calories_kcal": 170,
+   "approved": true,
+   "options": null
+  },
+  {
+   "id": "cold-012",
+   "subcategory_ar": "عصائر",
+   "name_ar": "عصير فراولة",
+   "name_en": "Strawberry Juice",
+   "price_sar": 13,
+   "calories_kcal": 180,
+   "approved": true,
+   "options": null
+  },
+  {
+   "id": "cold-013",
+   "subcategory_ar": "عصائر",
+   "name_ar": "عصير ليمون نعناع",
+   "name_en": "Lemon Mint Juice",
+   "price_sar": 12,
+   "calories_kcal": 180,
+   "approved": true,
+   "options": null
+  },
+  {
+   "id": "cold-014",
+   "subcategory_ar": "عصائر",
+   "name_ar": "كوكتيل",
+   "name_en": "Cocktail Juice",
+   "price_sar": 15,
+   "calories_kcal": 220,
+   "approved": true,
+   "options": null
+  },
+  {
+   "id": "cold-016",
+   "subcategory_ar": "كوكتيلات وموهيتو",
+   "name_ar": "موهيتو سفن أب",
+   "name_en": "7UP Mojito",
+   "price_sar": 12,
+   "calories_kcal": 190,
+   "approved": true,
+   "options": null
+  },
+  {
+   "id": "cold-017",
+   "subcategory_ar": "كوكتيلات وموهيتو",
+   "name_ar": "موهيتو كود رد",
+   "name_en": "Code Red Mojito",
+   "price_sar": 13,
+   "calories_kcal": 220,
    "approved": true,
    "options": null
   },
@@ -1361,8 +1564,8 @@
   {
    "id": "food-029",
    "subcategory_ar": "إضافات الإفطار",
-   "name_ar": "دلة قهوة عربية مع تمر",
-   "name_en": "Arabic Coffee Dallah with Dates",
+   "name_ar": "دلة قهوة سعودية",
+   "name_en": "Saudi Coffee Dallah",
    "price_sar": 25,
    "calories_kcal": 140,
    "approved": true,
@@ -1375,279 +1578,6 @@
    "name_en": "Tea Pot",
    "price_sar": 20,
    "calories_kcal": 5,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "cold-001",
-   "subcategory_ar": "قهوة باردة",
-   "name_ar": "موكا بارد",
-   "name_en": "Iced Mocha",
-   "price_sar": 17,
-   "calories_kcal": 300,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "cold-002",
-   "subcategory_ar": "قهوة باردة",
-   "name_ar": "وايت موكا بارد",
-   "name_en": "Iced White Mocha",
-   "price_sar": 16,
-   "calories_kcal": 330,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "cold-003",
-   "subcategory_ar": "قهوة باردة",
-   "name_ar": "كوب ثلج",
-   "name_en": "Cup of Ice",
-   "price_sar": 3,
-   "calories_kcal": 0,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "cold-004",
-   "subcategory_ar": "قهوة باردة",
-   "name_ar": "أمريكانو بارد",
-   "name_en": "Iced Americano",
-   "price_sar": 12,
-   "calories_kcal": 5,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "cold-005",
-   "subcategory_ar": "قهوة باردة",
-   "name_ar": "إسبانيش لاتيه بارد",
-   "name_en": "Iced Spanish Latte",
-   "price_sar": 17,
-   "calories_kcal": 290,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "cold-006",
-   "subcategory_ar": "قهوة باردة",
-   "name_ar": "آيس لاتيه",
-   "name_en": "Iced Latte",
-   "price_sar": 15,
-   "calories_kcal": 160,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "cold-007",
-   "subcategory_ar": "قهوة باردة",
-   "name_ar": "V60 بارد",
-   "name_en": "Iced V60",
-   "price_sar": 15,
-   "calories_kcal": 5,
-   "approved": true,
-   "options": [
-    {
-     "id": "ethiopian",
-     "label_ar": "إثيوبي",
-     "price_delta_sar": 0,
-     "label_en": "Ethiopian"
-    },
-    {
-     "id": "colombian",
-     "label_ar": "كولومبي",
-     "price_delta_sar": 0,
-     "label_en": "Colombian"
-    }
-   ]
-  },
-  {
-   "id": "cold-008",
-   "subcategory_ar": "ماتشا",
-   "name_ar": "آيس ماتشا",
-   "name_en": "Iced Matcha",
-   "price_sar": 16,
-   "calories_kcal": 220,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "cold-015",
-   "subcategory_ar": "كركديه",
-   "name_ar": "كركديه",
-   "name_en": "Hibiscus (Karkadeh)",
-   "price_sar": 12,
-   "calories_kcal": 120,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "cold-009",
-   "subcategory_ar": "عصائر",
-   "name_ar": "عصير مانجو",
-   "name_en": "Mango Juice",
-   "price_sar": 13,
-   "calories_kcal": 200,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "cold-010",
-   "subcategory_ar": "عصائر",
-   "name_ar": "عصير جوافة",
-   "name_en": "Guava Juice",
-   "price_sar": 13,
-   "calories_kcal": 190,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "cold-011",
-   "subcategory_ar": "عصائر",
-   "name_ar": "عصير برتقال",
-   "name_en": "Orange Juice",
-   "price_sar": 15,
-   "calories_kcal": 170,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "cold-012",
-   "subcategory_ar": "عصائر",
-   "name_ar": "عصير فراولة",
-   "name_en": "Strawberry Juice",
-   "price_sar": 13,
-   "calories_kcal": 180,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "cold-013",
-   "subcategory_ar": "عصائر",
-   "name_ar": "عصير ليمون نعناع",
-   "name_en": "Lemon & Mint Juice",
-   "price_sar": 12,
-   "calories_kcal": 180,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "cold-014",
-   "subcategory_ar": "عصائر",
-   "name_ar": "كوكتيل",
-   "name_en": "Cocktail Juice",
-   "price_sar": 15,
-   "calories_kcal": 220,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "cold-016",
-   "subcategory_ar": "كوكتيلات وموهيتو",
-   "name_ar": "موهيتو سفن أب",
-   "name_en": "7UP Mojito",
-   "price_sar": 12,
-   "calories_kcal": 190,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "cold-017",
-   "subcategory_ar": "كوكتيلات وموهيتو",
-   "name_ar": "موهيتو كود رد",
-   "name_en": "Code Red Mojito",
-   "price_sar": 13,
-   "calories_kcal": 220,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "cold-018",
-   "subcategory_ar": "مشروبات غازية ومياه",
-   "name_ar": "بيبسي كبير",
-   "name_en": "Pepsi (Large)",
-   "price_sar": 4,
-   "calories_kcal": 140,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "cold-019",
-   "subcategory_ar": "مشروبات غازية ومياه",
-   "name_ar": "سفن أب",
-   "name_en": "7UP",
-   "price_sar": 4,
-   "calories_kcal": 140,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "cold-020",
-   "subcategory_ar": "مشروبات غازية ومياه",
-   "name_ar": "ميرندا برتقال",
-   "name_en": "Mirinda Orange",
-   "price_sar": 4,
-   "calories_kcal": 160,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "cold-021",
-   "subcategory_ar": "مشروبات غازية ومياه",
-   "name_ar": "عصير الربيع",
-   "name_en": "Al Rabie Juice",
-   "price_sar": 4,
-   "calories_kcal": 110,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "cold-022",
-   "subcategory_ar": "مشروبات غازية ومياه",
-   "name_ar": "مياه",
-   "name_en": "Water",
-   "price_sar": 2,
-   "calories_kcal": 0,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "cold-023",
-   "subcategory_ar": "مشروبات غازية ومياه",
-   "name_ar": "حمضيات",
-   "name_en": "Citrus Drink",
-   "price_sar": 4,
-   "calories_kcal": 150,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "cold-024",
-   "subcategory_ar": "مشروبات غازية ومياه",
-   "name_ar": "كود رد صغير",
-   "name_en": "Code Red (Small)",
-   "price_sar": 5,
-   "calories_kcal": 150,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "cold-025",
-   "subcategory_ar": "مشروبات غازية ومياه",
-   "name_ar": "كود رد كبير",
-   "name_en": "Code Red (Large)",
-   "price_sar": 7,
-   "calories_kcal": 240,
-   "approved": true,
-   "options": null
-  },
-  {
-   "id": "cold-026",
-   "subcategory_ar": "مشروبات غازية ومياه",
-   "name_ar": "ماونتن ديو",
-   "name_en": "Mountain Dew",
-   "price_sar": 4,
-   "calories_kcal": 170,
    "approved": true,
    "options": null
   },
@@ -1785,7 +1715,7 @@
    "id": "food-017",
    "subcategory_ar": "بيتزا",
    "name_ar": "بيتزا مارجريتا",
-   "name_en": "Pizza Margherita",
+   "name_en": "Margherita Pizza",
    "price_sar": 25,
    "calories_kcal": 650,
    "approved": true,
@@ -1875,7 +1805,7 @@
    "id": "dessert-003",
    "subcategory_ar": "كيك وتشيزكيك",
    "name_ar": "كيك شيشاني بالعسل",
-   "name_en": "Chechen Honey Cake",
+   "name_en": "Honey Cake (Chechen-style)",
    "price_sar": 17,
    "calories_kcal": 450,
    "approved": true,
@@ -1899,6 +1829,116 @@
    "price_sar": 15,
    "calories_kcal": 480,
    "approved": true,
+   "options": null
+  },
+  {
+   "id": "cold-018",
+   "subcategory_ar": "مشروبات غازية ومياه",
+   "name_ar": "بيبسي كبير",
+   "name_en": "Pepsi (large)",
+   "price_sar": 4,
+   "calories_kcal": 140,
+   "approved": true,
+   "options": null
+  },
+  {
+   "id": "cold-019",
+   "subcategory_ar": "مشروبات غازية ومياه",
+   "name_ar": "سفن أب",
+   "name_en": "7UP",
+   "price_sar": 4,
+   "calories_kcal": 140,
+   "approved": true,
+   "options": null
+  },
+  {
+   "id": "cold-020",
+   "subcategory_ar": "مشروبات غازية ومياه",
+   "name_ar": "ميرندا برتقال",
+   "name_en": "Mirinda Orange",
+   "price_sar": 4,
+   "calories_kcal": 160,
+   "approved": true,
+   "options": null
+  },
+  {
+   "id": "cold-021",
+   "subcategory_ar": "مشروبات غازية ومياه",
+   "name_ar": "عصير الربيع",
+   "name_en": "Al Rabie Juice",
+   "price_sar": 4,
+   "calories_kcal": 110,
+   "approved": true,
+   "options": null
+  },
+  {
+   "id": "cold-022",
+   "subcategory_ar": "مشروبات غازية ومياه",
+   "name_ar": "مياه",
+   "name_en": "Water",
+   "price_sar": 2,
+   "calories_kcal": 0,
+   "approved": true,
+   "options": null
+  },
+  {
+   "id": "cold-023",
+   "subcategory_ar": "مشروبات غازية ومياه",
+   "name_ar": "حمضيات",
+   "name_en": "Citrus Drink",
+   "price_sar": 4,
+   "calories_kcal": 150,
+   "approved": true,
+   "options": null
+  },
+  {
+   "id": "cold-024",
+   "subcategory_ar": "مشروبات غازية ومياه",
+   "name_ar": "كود رد صغير",
+   "name_en": "Code Red (small)",
+   "price_sar": 5,
+   "calories_kcal": 150,
+   "approved": true,
+   "options": null
+  },
+  {
+   "id": "cold-025",
+   "subcategory_ar": "مشروبات غازية ومياه",
+   "name_ar": "كود رد كبير",
+   "name_en": "Code Red (large)",
+   "price_sar": 7,
+   "calories_kcal": 240,
+   "approved": true,
+   "options": null
+  },
+  {
+   "id": "cold-026",
+   "subcategory_ar": "مشروبات غازية ومياه",
+   "name_ar": "ماونتن ديو",
+   "name_en": "Mountain Dew",
+   "price_sar": 4,
+   "calories_kcal": 170,
+   "approved": true,
+   "options": null
+  },
+  {
+   "id": "soft-photo-001",
+   "subcategory_ar": "مشروبات غازية ومياه",
+   "name_ar": "بيبسي صغير",
+   "name_en": "Pepsi (small)",
+   "price_sar": null,
+   "calories_kcal": null,
+   "approved": false,
+   "options": null
+  },
+  {
+   "id": "soft-photo-002",
+   "subcategory_ar": "مشروبات غازية ومياه",
+   "name_ar": "ديو صغير",
+   "name_en": "Mountain Dew (small)",
+   "price_sar": null,
+   "calories_kcal": null,
+   "approved": false,
    "options": null
   },
   {
@@ -2047,5 +2087,5 @@
    "price_sar": null
   }
  },
- "catalog_version": "web-structure-review-2026-10-01-v15.1"
+ "catalog_version": "web-structure-review-2026-10-02-v16"
 }

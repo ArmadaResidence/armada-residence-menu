@@ -12,7 +12,7 @@ assets/frames/<section>/desktop/frame_0000…0150.webp   the supplied 720×898 f
 assets/frames/<section>/mobile/frame_0000…0150.webp    480×599 set for low-DPR phones (chosen automatically)
 assets/frames/<section>/manifest.json                  the supplied manifests
 data/menu_data.json           the menu as rendered (built from the catalog; approved flags, EN names)
-data/catalog_source.json      catalog v15.1 — the source of truth for items, prices, calories and EN names (2026-10-01)
+data/catalog_source.json      catalog v14 — v13 plus the seven breakfast add-on prices from the printed breakfast page
 data/catalog_original_v13.json  the catalog as originally supplied
 
 Frame quality: the source videos (1288×1608, listed in assets/frames/index manifests) were not supplied — only
